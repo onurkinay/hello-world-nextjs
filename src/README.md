@@ -31,7 +31,7 @@ After connecting the repository, **Static Site Hosting** will automatically try 
 |  |  |
 |---|---|
 | Build command | `npm run build` |
-| Node version  |  18.16.0  |
+| Node version  |  16.20.0  |
 | Publish directory | `out`  |
 
 ### Deployment Lifecycle
