@@ -1,5 +1,4 @@
-![Next.js](https://github.com/palmiak/hello-world-nextjs/assets/2342458/5c74158a-3b07-45d1-a6f3-bcb6ab6ce816)
-
+![nextjs](https://github.com/palmiak/hello-world-nextjs/assets/2342458/e853df9f-4592-4742-8217-f45bbe3f8580)
 
 # Kinsta - Hello World - Static Site With Next.js 🚀
 
