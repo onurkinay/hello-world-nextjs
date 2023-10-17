@@ -1,4 +1,6 @@
-![Next.js](https://user-images.githubusercontent.com/2342458/230581871-dc3c1c5f-91a2-484c-8b5c-5065a6b99ff0.png)
+![Next.js](https://github.com/palmiak/hello-world-nextjs/assets/2342458/5c74158a-3b07-45d1-a6f3-bcb6ab6ce816)
+
+
 # Kinsta - Hello World - Static Site With Next.js 🚀
 
 An example of how to deploy a static site built with Next.js on Kinsta Hosting.
